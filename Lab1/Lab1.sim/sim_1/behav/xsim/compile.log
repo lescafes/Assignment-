@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado2019.1/projects/bi/bi.srcs/sources_1/new/bi.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module max2to1
+INFO: [VRFC 10-311] analyzing module clock
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado2019.1/projects/bi/bi.srcs/sim_1/new/bi_simulation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bi_simulation
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado2019.1/projects/bi/bi.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
